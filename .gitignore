@@ -72,6 +72,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 #Archivos muy pesados para GIT
+
 Assets/AssetStore/Poly Ninja/Stykized Vegetation Pack Free/Textures/Skybox.tga
 
 WebGL Builds/Build/WebGL Builds.data.gz
