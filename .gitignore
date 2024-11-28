@@ -70,3 +70,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#Archivos muy pesados para GIT
+Assets/AssetStore/Poly Ninja/Stykized Vegetation Pack Free/Textures/Skybox.tga
+
+WebGL Builds/Build/WebGL Builds.data.gz
+
+connectwebgl.zip
+
